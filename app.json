@@ -1,5 +1,5 @@
 {
-    "name": "rgnk wabot",
+    "name": "Illı HARON Illı",
     "description": "WhatsApp public/user bot",
     "logo": "",
     "keywords": ["WhatsApp"],
@@ -44,14 +44,14 @@
             "value":"Raganork pack;Author name"
         },
         "CHATBOT": {
-            "description": "AI chatbot",
+            "description": "Illı HARON Illı",
             "required": true,
             "value":"off"
         },
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"Illı HARON Illı"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
